@@ -1,11 +1,10 @@
 
 
 <img align="center" alt="Coding"  src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500027/102146167-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg">
-
-<h1 align="center">Hi 👋, I'm Tarik Ahmed</h1>
+<h1 style="border-bottom:0;" align="center" >Hello 👋, I'm Tarik Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <p  align="center" style="text-align:justify;"> 
-I am a Software Engineer with expertise in React.js, Next.js, Express js,Node.js, MongoDB, and GraphQL. I had completed my  Bachelor of Science (B.Sc.) from North South University in Computer Science and Engineering.
+ <hr style="border-bottom:solid var(--color-border-default) .5px">
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -33,8 +32,7 @@ I am a Software Engineer with expertise in React.js, Next.js, Express js,Node.js
 <h3>  &nbsp;GitHub Analytics:</h3>
 
 <p align="center">
- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=itarikahmed&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="itarikahmed" /></p>        
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itarikahmed&show_icons=true&locale=en&theme=tokyonight" alt="tarikahmed" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=itarikahmed&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="itarikahmed" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itarikahmed&show_icons=true&locale=en&theme=tokyonight" alt="tarikahmed" /></p>
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itarikahmed&&theme=tokyonight" alt="tarikahmed" /></p>
 
