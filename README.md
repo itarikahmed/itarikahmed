@@ -1,10 +1,10 @@
 
 
 <img align="center" alt="Coding"  src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500027/102146167-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg">
-<h1 style="border-bottom:0;" align="center" >Hello 👋, I'm Tarik Ahmed</h1>
+<h1 style="border-bottom:0px;" align="center" >Hello 👋, I'm Tarik Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <p  align="center" style="text-align:justify;"> 
- <hr style="border-bottom:solid var(--color-border-default) .5px">
+ 
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -32,9 +32,10 @@
 <h3>  &nbsp;GitHub Analytics:</h3>
 
 <p align="center">
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=itarikahmed&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="itarikahmed" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itarikahmed&show_icons=true&locale=en&theme=tokyonight" alt="tarikahmed" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=itarikahmed&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="itarikahmed" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itarikahmed&show_icons=true&locale=en&theme=tokyonight" alt="tarikahmed" /></p>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itarikahmed&&theme=tokyonight" alt="tarikahmed" /></p>
 
-<a href="#"><img alt="Tarik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itarikahmed&bg_color=DD272700&color=00FF9B&line=00F0FF&point=FFFFFF&hide_border=true"/></a>
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=itarikahmed&&theme=xcode)](https://github.com/itarikahmed)
+
 
