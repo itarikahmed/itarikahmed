@@ -1,5 +1,4 @@
 
-
 <img align="center"  width=1480 height=400 alt="Coding"  src="https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?" >
 
 <h1 style="border-bottom:0px;" align="center" >Hello 👋, I'm Tarik Ahmed</h1>
@@ -51,10 +50,9 @@
 <h3>  &nbsp;GitHub Analytics:</h3>
 
 <div align="center">
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=itarikahmed&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="itarikahmed" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=itarikahmed&show_icons=true&locale=en&theme=tokyonight" alt="tarikahmed" /></p>
-</div>
-<br>
-<p>[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=itarikahmed&&theme=xcode)](https://github.com/itarikahmed)]</p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=itarikahmed&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="itarikahmed" /></p></div> 
+<p  align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=itarikahmed&show_icons=true&locale=en&theme=tokyonight" alt="tarikahmed" /></p>
+
+
 
 
