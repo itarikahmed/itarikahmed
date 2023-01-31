@@ -1,6 +1,6 @@
 
 
-<img align="center" alt="Coding"  src="https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?w=1480" >
+<img align="center"  width=1480 height=400 alt="Coding"  src="https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?" >
 
 <h1 style="border-bottom:0px;" align="center" >Hello 👋, I'm Tarik Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
@@ -50,11 +50,11 @@
 
 <h3>  &nbsp;GitHub Analytics:</h3>
 
-<p align="center">
+<div align="center">
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=itarikahmed&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="itarikahmed" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=itarikahmed&show_icons=true&locale=en&theme=tokyonight" alt="tarikahmed" /></p>
-</p>
-
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=itarikahmed&&theme=xcode)](https://github.com/itarikahmed)
+</div>
+<br>
+<p>[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=itarikahmed&&theme=xcode)](https://github.com/itarikahmed)]</p>
 
 
