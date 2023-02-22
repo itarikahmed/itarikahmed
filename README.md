@@ -26,9 +26,10 @@
 <a href="https://www.researchgate.net/profile/Tarik_Ahmed/"><img alt="Research Gate" src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white"></a>
 </p>
 
+
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
+
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img align="left"  wight="42px" height="42px" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" /> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img align="left"  wight="42px" height="42px" alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" /> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img align="left" alt="tailwind"  wight="42px" height="42px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /> </a>
@@ -38,19 +39,11 @@
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js"  wight="42px" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg" /></a>
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" alt="firebase"  wight="42px" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" /> </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git"  wight="42px" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" /> </a>
-</p>
 
-<p align="left">
-<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" wight="42px" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg" /> </a> 
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch"  wight="42px" height="42px"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow"  wight="42px" height="42px"/> </a> 
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img alt="heroku" align="left"  wight="35px" height="35px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" /> </a>
-<a href="https://www.figma.com/" target="_blank"> <img alt="figma" align="left"  wight="42px" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" /> </a>
-</p>
 <br>
 
-<h3 align="left"> &nbsp;GitHub Analytics:</h3>
 
+<h3 align="left"> &nbsp; GitHub Analytics:</h3>
 <div align="center"> 
 <a href="https://github.com/itarikahmed/itarikahmed">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=itarikahmed&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Tarik's GitHub Stats" />
