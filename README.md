@@ -54,13 +54,14 @@
 
 <h3> &nbsp; GitHub Analytics:</h3>
 
-<div align="center">
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=itarikahmed&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="itarikahmed" />
-</p>
+<div align="center"> 
+<a href="https://github.com/itarikahmed/itarikahmed">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itarikahmed&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Tarik's GitHub Stats" />
+</a>
+<a href="https://github.com/itarikahmed/itarikahmed">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itarikahmed&hide=java,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
 </div>
-
-<p  align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=itarikahmed&show_icons=true&locale=en&theme=tokyonight" alt="tarikahmed" />
-</p>
 
 
 
